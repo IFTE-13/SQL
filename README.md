@@ -1,4 +1,4 @@
-# 📌 SQL Learning Repository
+# 📌 Structured Query Language
 
 Welcome to the **SQL Learning Repository**! This repository is designed to help students and beginners learn SQL from the ground up with structured lessons, hands-on exercises, and real-world projects.
 
@@ -45,8 +45,8 @@ Welcome to the **SQL Learning Repository**! This repository is designed to help 
 ## 🚀 Getting Started
 1. **Clone this repository:**
    ```sh
-   git clone https://github.com/yourusername/SQL-Learning.git
-   cd SQL-Learning
+   git clone https://github.com/IFTE-13/SQL.git
+   cd SQL
    ```
 2. **Start with the Basics:**
    - Read `Introduction-to-SQL.md`
